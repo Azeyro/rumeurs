@@ -7,4 +7,5 @@
 ### Semaine 3
 ### ...
 
+bonjour
 <a href="index.html"> Retour à la page principale </a>
